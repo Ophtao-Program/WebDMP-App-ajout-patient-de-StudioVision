@@ -1,0 +1,5 @@
+# Connecteur StudioVision (lecture Access / ODBC)
+pyodbc>=4.0.0
+# Automatisation INSi : COM Access (win32com) + API Win32 (ctypes), via pywin32.
+# Aucune bibliotheque d'accessibilite n'est necessaire.
+pywin32>=300
